@@ -13,6 +13,8 @@ gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
+gem 'gravatar_image_tag', '~> 1.2'
+gem 'devise'
 # gem 'devise'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
