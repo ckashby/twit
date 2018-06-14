@@ -19,19 +19,20 @@
 
 
 body {
-  background-color: #fcb;
+  background-color: #fff;
   color: #333;
-  margin: 70px;
+  margin: 80px;
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-size: 18px;
+  line-height: 20px;
 }
 
 p, ol, ul, td {
   font-family: verdana, arial, helvetica, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-size: 18px;
+  line-height: 20px;
 }
+
 
 pre {
   background-color: #eee;
@@ -86,7 +87,11 @@ div {
   }
 
   ul li {
+<<<<<<< HEAD
     font-size: 12px;
+=======
+    font-size: 18px;
+>>>>>>> simple-form
     list-style: square;
   }
 }
@@ -105,7 +110,11 @@ footer {
 }
 
 footer a {
+<<<<<<< HEAD
   color: #000;
+=======
+  color: #555;
+>>>>>>> simple-form
 }
 
 footer a:hover {
