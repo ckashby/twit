@@ -1,4 +1,4 @@
 <hr>
 <% if user_signed_in? %>
-  Signed in as <%= current_user.email %>
+  Signed in as <%= current_user.email %> | Tweet count <%= current_user.tweets.count %>
 <% end %>
